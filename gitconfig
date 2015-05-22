@@ -1,0 +1,9 @@
+[user]
+	name = Ryan Closner
+	email = me@ryanclosner.com
+[push]
+	default = simple
+[core]
+	excludesfile = /Users/rclosner/.gitignore
+[credential]
+	helper = osxkeychain

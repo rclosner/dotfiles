@@ -1,0 +1,9 @@
+*.swp
+*.swo
+*.swn
+.DS_Store
+Guardfile
+Gemfile.dev
+Gemfile.dev.lock
+vendor/dev_bundle
+.byebug_history

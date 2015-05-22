@@ -1,0 +1,8 @@
+mutt/cache/*
+mutt/temp/*
+mutt/certificates
+mutt/Equifax_Secure_CA.cert
+*.asc
+*.local
+zsh/plugins/*
+bitbar
